@@ -4,3 +4,4 @@
 
 layout: home
 ---
+日本語の実験 from index pages.
