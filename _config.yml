@@ -22,12 +22,15 @@ baseurl: "Co2TJ" # the subpath of your site, e.g. /blog
 url: "https://tonoi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tonoi
 github_username: tonoi
+google_analytics: G-0S9JVP8FB6
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
