@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Co2TJとは"
+title: about
 permalink: /about/
 ---
 

@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: "お問い合わせ"
+title: contact
 permalink: /contact/
 ---
 

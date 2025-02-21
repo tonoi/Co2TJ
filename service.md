@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: "サービス詳細"
+title: service
 permalink: /service/
 ---
 
