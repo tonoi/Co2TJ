@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: "サービス詳細"
+permalink: "/service"
 ---
 
 ## サービスの流れ

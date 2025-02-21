@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Co2TJとは"
-permalink: /about/
+permalink: "/about"
 ---
 
 
