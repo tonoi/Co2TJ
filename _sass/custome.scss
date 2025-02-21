@@ -1,0 +1,68 @@
+﻿// jekyll-theme-minimal のデフォルトスタイルを取り込み
+@import "jekyll-theme-minimal";
+
+// ベースの背景色を薄いグラデーションで表現（地方の自然をイメージ）
+body {
+  background: linear-gradient(120deg, #aee8d8 0%, #f5ffc9 100%);
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+// ヘッダーやフッターなど、テーマが用意している要素を上書きカスタマイズ
+.site-title {
+  color: #fff;
+  background-color: #299d91;  // 明るめのグリーン系
+  padding: 1em;
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.site-nav {
+  background-color: #2ec4b6;  // さらに鮮やかなターコイズ系
+  padding: 0.5em 1em;
+  text-align: center;
+  margin-bottom: 2em;
+}
+.site-nav a {
+  color: #fff !important; // メニュー文字を白に
+  text-decoration: none;
+  margin: 0 1em;
+  font-weight: bold;
+}
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+// メインコンテンツエリア
+.page-content {
+  background-color: rgba(255, 255, 255, 0.9);
+  margin: 0 auto;
+  padding: 2em;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+// 見出しカラー
+h1, h2, h3, h4, h5 {
+  color: #299d91;
+}
+
+// リンクカラー
+a {
+  color: #f62aae;
+}
+a:hover {
+  color: #d41c8c;
+}
+
+// フッター
+.site-footer {
+  background-color: #299d91;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+  margin-top: 2em;
+}

@@ -1,24 +1,13 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Carbon Tech Journey (Co2TJ)
-subtitle: 二地域居住を推進して地方と都会の対等な関係構築を通して日本を豊かにするプロジェクト
+title: カーボンテック・ジャーニー (Co2TJ)
+subtitle: 地方の自然を都会のDXで支援して日本を豊かにしよう
+# 二地域居住を推進して地方と都会の対等な関係構築を通して日本を豊かにするプロジェクト
 email: mkoikawa@tonoi.co.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  OSS である Carbon Tech Assist (Co2TA) を発展させ、二地域居住を推進して地方と
-  都会の対等な関係構築を通して日本を豊かにするプロジェクトです。
+  地方の農業・林業・水産業などの豊かな里山を活かすには、広範囲なDX化が必要です。
+  そして、都会には地方に移住はできないけどリモートで地方を応援したい人が沢山います。
+  そこで、生成AIの力を借りて都会の人たちが地方産業のDX化を支援できる関係を作っていきたいと思います。
+  やみくもにDX化と言ってもイメージがわかないので、まずは地方産業の様々な活動を数値化して
+  カーボンクレジットとして申請する事で現金収入につなげたいと思います。
 baseurl: "/Co2TJ" # the subpath of your site, e.g. /blog
 url: "https://tonoi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tonoi
@@ -26,12 +15,15 @@ github_username: tonoi
 repository: tonoi/Co2TJ
 google_analytics: G-0S9JVP8FB6
 
+lang: ja
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
 # remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 #  - jekyll-remote-theme
 
 # Exclude from processing.
@@ -41,12 +33,27 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
+  - vendor 
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
   - docs/
   - README.md
+  - LICENSE
+  - .gitignore
+  - .gitmodules
+  - .sass-cache/
+  - .jekyll-cache/
+  - .jekyll-metadata
+  - .DS_Store
+  - .vscode/
+  - .vscode/settings.json
+  - .vscode/tasks.json
+  - .vscode/launch.json
+
+sass:
+  sass.dir: .sass
 
 env:
   PAGES_REPO_NWO: tonoi/Co2TJ
