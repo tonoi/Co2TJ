@@ -8,8 +8,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   そこで、生成AIの力を借りて都会の人たちが地方産業のDX化を支援できる関係を作っていきたいと思います。
   やみくもにDX化と言ってもイメージがわかないので、まずは地方産業の様々な活動を数値化して
   カーボンクレジットとして申請する事で現金収入につなげたいと思います。
-baseurl: "/Co2TJ" # the subpath of your site, e.g. /blog
-url: "https://tonoi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "tonoi/Co2TJ" # the subpath of your site, e.g. /blog
+url: "https://tonoi.github.io" m
 twitter_username: tonoi
 github_username: tonoi
 repository: tonoi/Co2TJ
@@ -22,7 +22,6 @@ lang: ja
 markdown: kramdown
 # theme: jekyll-theme-minimal
 # remote_theme: pages-themes/minimal@v0.2.0
-# remote_theme: pages-themes/architect@v0.2.0
 remote_theme: pages-themes/leap-day@v0.2.0
 
 plugins:
@@ -66,5 +65,5 @@ sass:
   sass.dir: .sass
 
 env:
-#  PAGES_REPO_NWO: tonoi/Co2TJ
+  PAGES_REPO_NWO: tonoi/Co2TJ
 

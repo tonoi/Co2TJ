@@ -5,3 +5,5 @@ Pixabay (CC0/Public Domain)
 Unsplash (自由に利用可)
 photoAC (日本語で探しやすい)
 
+Themeは以下を利用
+https://github.com/pages-themes/leap-day?tab=readme-ov-file
