@@ -26,6 +26,12 @@ plugins:
   - jekyll-seo-tag
 #  - jekyll-remote-theme
 
+header_pages:
+  - index.md
+  - about.md
+  - service.md
+  - contact.md
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -56,10 +62,5 @@ sass:
   sass.dir: .sass
 
 env:
-  PAGES_REPO_NWO: tonoi/Co2TJ
+#  PAGES_REPO_NWO: tonoi/Co2TJ
 
-header_pages:
-  - index.md
-  - about.md
-  - service.md
-  - contact.md
