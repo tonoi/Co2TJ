@@ -10,8 +10,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   カーボンクレジットとして申請する事で現金収入につなげたいと思います。
 baseurl: "tonoi/Co2TJ" # the subpath of your site, e.g. /blog
 url: "https://tonoi.github.io"
-twitter_username: tonoi
-github_username: tonoi
+# twitter_username: tonoi
+github_username: tonoi co,.Ltd
 repository: tonoi/Co2TJ
 google_analytics: G-0S9JVP8FB6
 show_downloads: false
