@@ -9,7 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   やみくもにDX化と言ってもイメージがわかないので、まずは地方産業の様々な活動を数値化して
   カーボンクレジットとして申請する事で現金収入につなげたいと思います。
 baseurl: "tonoi/Co2TJ" # the subpath of your site, e.g. /blog
-url: "https://tonoi.github.io" m
+url: "https://tonoi.github.io"
 twitter_username: tonoi
 github_username: tonoi
 repository: tonoi/Co2TJ
