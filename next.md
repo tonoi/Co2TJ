@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Next
-permalink: /Co2TJ/next/
+permalink: /next/
 ---
 Place holder.
 

@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: "お問い合わせ"
-permalink: /Co2TJ/contact/
+permalink: /contact/
 ---
 
 ## お問い合わせ・参加方法

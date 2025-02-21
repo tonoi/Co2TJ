@@ -4,7 +4,7 @@
 
 layout: default
 title: "トップページ"
-permalink: /Co2TJ/
+permalink: /
 ---
 
 # カーボンテックジャーニー (Co2TJ) へようこそ！
