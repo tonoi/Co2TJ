@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: "サービス詳細"
-permalink: "/service"
+permalink: /Co2TJ/service/
 ---
 
 ## サービスの流れ
