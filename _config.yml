@@ -59,9 +59,7 @@ env:
   PAGES_REPO_NWO: tonoi/Co2TJ
 
 header_pages:
+  - index.md
   - about.md
+  - service.md
   - contact.md
-  - projects.md
-  - publications.md
-  - talks.md
-  - teaching.md
