@@ -62,7 +62,8 @@ exclude:
   - .vscode/launch.json
 
 sass:
-  sass.dir: .sass
+  sass.dir: _sass
+  style: compressed
 
 env:
   PAGES_REPO_NWO: tonoi/Co2TJ
