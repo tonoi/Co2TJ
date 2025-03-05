@@ -1,12 +1,14 @@
-﻿---
----
-
-// ベースの背景色を薄いグラデーションで表現（地方の自然をイメージ）
+﻿// ベースの背景色を薄いグラデーションで表現（地方の自然をイメージ）
 body {
   background: linear-gradient(120deg, #aee8d8 0%, #f5ffc9 100%);
   font-family: 'Helvetica Neue', Arial, sans-serif;
   margin: 0;
   padding: 0;
+}
+
+/* 稲穂の色を表す黄緑（greenyellow）に header の背景色を設定 */
+header {
+  background-color: rgb(130, 194, 34);
 }
 
 // ヘッダーやフッターなど、テーマが用意している要素を上書きカスタマイズ

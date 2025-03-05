@@ -3,7 +3,7 @@ subtitle: 地方の自然を都会のDXで支援して日本を豊かにしよ�
 # 二地域居住を推進して地方と都会の対等な関係構築を通して日本を豊かにするプロジェクト
 email: mkoikawa@tonoi.co.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  農家、林業、漁業などの地方生産者のDX化を縁のある都会在住者が支援をして、カーボンクレジット獲得を目指す
+  農家、林業、漁業などの地方生産者のDX化を、ご縁のある都会在住者が支援をして、カーボンクレジット獲得を目指します。
 baseurl: "tonoi/Co2TJ" # the subpath of your site, e.g. /blog
 url: "https://tonoi.github.io"
 # twitter_username: tonoi
