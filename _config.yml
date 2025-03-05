@@ -3,15 +3,11 @@ subtitle: 地方の自然を都会のDXで支援して日本を豊かにしよ�
 # 二地域居住を推進して地方と都会の対等な関係構築を通して日本を豊かにするプロジェクト
 email: mkoikawa@tonoi.co.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  地方の農業・林業・水産業などの豊かな里山を活かすには、広範囲なDX化が必要です。
-  そして、都会には地方に移住はできないけどリモートで地方を応援したい人が沢山います。
-  そこで、生成AIの力を借りて都会の人たちが地方産業のDX化を支援できる関係を作っていきたいと思います。
-  やみくもにDX化と言ってもイメージがわかないので、まずは地方産業の様々な活動を数値化して
-  カーボンクレジットとして申請する事で現金収入につなげたいと思います。
+  農家、林業、漁業などの地方生産者のDX化を縁のある都会在住者が支援をして、カーボンクレジット獲得を目指す
 baseurl: "tonoi/Co2TJ" # the subpath of your site, e.g. /blog
 url: "https://tonoi.github.io"
 # twitter_username: tonoi
-github_username: tonoi co,.Ltd
+github_username: tonoi co,.Ltd.
 repository: tonoi/Co2TJ
 google_analytics: G-0S9JVP8FB6
 show_downloads: false
